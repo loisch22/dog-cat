@@ -1,0 +1,17 @@
+img {
+  display: none;
+}
+.hide_kitty {
+  display: none;
+}
+
+.clickable {
+  color:blue;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 20px;
+}
